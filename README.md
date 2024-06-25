@@ -1,6 +1,6 @@
 # StaySafe 
 
-Android app to warn people of dangerous animals in the area.
+StaySafe is a Android app to warn people of dangerous animals in the area.
 
 ## Why StaySafe?
 
